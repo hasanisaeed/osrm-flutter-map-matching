@@ -1,2 +1,2 @@
-# osrm-flutter-map-matching
-How to use OSRM match service in flutter
+This is a flutter version of this [jsFiddle demo](https://jsfiddle.net/afarber/dfszt8ng/), that showing how to use OSRM map matching service.
+
