@@ -25,7 +25,7 @@ class MapMatchingPage extends StatefulWidget {
 
 class _MapMatchingPageState extends State<MapMatchingPage> {
   static const MARKERS_MAX = 4;
-  static const startPosition = LatLng(54.9580, 36.4138);
+  static const startPosition = LatLng(36.4138, 54.9580);
   List<Marker> markers = [];
   List<Polyline> polylines = [];
   String statusMessage = '';
